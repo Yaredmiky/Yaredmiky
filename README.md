@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yaredmiky
 - 👀 I’m interested in working Power BI Report development project
-- 🌱 I’m currently learning Data Analytics and Visulization 
+- 🌱 I’m currently learning Data Analytics and Visualization 
 - 💞️ I’m looking to collaborate on Power BI Projects
 - 📫 How to reach me Joshyared44@gmail.com
 
